@@ -1,2 +1,1 @@
-# ghost-runner2
-ghost game
+# Rocket Game
